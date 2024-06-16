@@ -280,3 +280,10 @@ a {
 i {
     font-size: 200px;
 }
+.equipment h1 {
+    position: absolute;
+    font-size: 60px;
+    top: 5%;
+    left: 49%;
+    transform: translate(-50%);  
+}
